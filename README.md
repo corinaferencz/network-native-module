@@ -3,3 +3,9 @@ This react native app demonstrates how to create network requests using native m
 
 ## Demo
 ![Demo iOS](https://raw.githubusercontent.com/corinaferencz/network-native-module/main/ios-simulation.gif)
+
+## Installation
+After download:
+1. Run ```npm install```.
+2. Change directory to ios and then ```pod install```.
+3. Run the app, either with Xcode or Android Studio, or by writing ```npm run ios``` for iOS build or ```npm run android``` for Android build.
